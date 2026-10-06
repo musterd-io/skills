@@ -52,8 +52,8 @@ checker; all of them are stdlib Python 3.8+ or POSIX shell, with no install step
 ## Installing one
 
 ```sh
-npx skills add SandRiseStudio/musterd-skills --list                 # see all twenty
-npx skills add SandRiseStudio/musterd-skills --skill board-loop     # install one
+npx skills add musterd-io/skills --list                 # see all twenty
+npx skills add musterd-io/skills --skill board-loop     # install one
 ```
 
 The [skills](https://www.npmjs.com/package/skills) CLI asks which harness to install
